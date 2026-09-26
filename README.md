@@ -18,7 +18,8 @@ And in last it gives the name of student with their Marks.
 
 OUTPUT:
 
-<img width="826" height="342" alt="image" src="https://github.com/user-attachments/assets/c0384b80-c254-4496-9dd3-0a038ce23ad0" />
+<img width="826" height="342" alt="Screenshot 2026-09-26 194528" src="https://github.com/user-attachments/assets/2a6cec4a-51ab-413a-8b66-f56d27bace62" />
+
 
 <img width="826" height="342" alt="Screenshot 2026-09-26 194528" src="https://github.com/user-attachments/assets/f275236f-990f-4a0f-b766-3cf61a17cab9" />
 
